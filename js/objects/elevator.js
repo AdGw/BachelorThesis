@@ -88,8 +88,6 @@
           }
         },
         legend: "none",
-        titleY: "Height(m)",
-        titleX: "Distance(km)"
       });
     };
 
